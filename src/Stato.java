@@ -1,0 +1,3 @@
+public enum Stato {
+    ACCESO, SPENTO, STANDBY, LAVAGGIO_IN_CORSO
+}
